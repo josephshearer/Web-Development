@@ -1,0 +1,31 @@
+body{
+  width: 60%;
+  margin: auto;
+  border: 20px solid #BDC3C7;
+  margin-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px
+}
+
+div p:nth-of-type(1){
+  border-left: 4px solid #BDC3C7;
+  padding-left: 4px;
+}
+
+div p{
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.date{
+  color: #3498db;
+  text-transform: uppercase;
+  letter-spacing: 2px
+}
+
+h2{
+  color: #2c3e50;
+  font-family: Source Sans Pro;
+  font-size: 30px
+}
